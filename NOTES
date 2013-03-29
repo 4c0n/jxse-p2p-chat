@@ -1,0 +1,8 @@
+1. start network (uses default net peergroup)
+2. create pipe advertisement (informs on how to connect peers)
+3. publish pipe advertisement on the peer group (NOTE time)
+4. Send/Receive Message objects (InputPipe/OutputPipe)
+
+
+TURN OFF FIREWALL!!!
+- Discoveries work one way (So after receiving response you will not respond to the other client)
